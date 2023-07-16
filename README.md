@@ -8,7 +8,7 @@ To gain deeper insights into fertility rate trends, this project focuses on anal
 
 This project aimes to provide valuable insights into the drivers of fertility rates and examine the correlations between fertility rates and factors such as education, rule of law, and religiosity. By analyzing and understanding these relationships, policymakers and stakeholders can make informed decisions to promote sustainable population growth, design effective interventions, and develop policies that support the well-being of individuals and the environment. 
 
-See more in the vizualization created in tableau: https://public.tableau.com/app/profile/ai5291/viz/Exploringfertilityrate/Story1
+See more in the vizualization created in tableau: https://public.tableau.com/app/profile/ai5291/viz/shared/MY7BQZSSQ
 
 
 **Where do we have the data from?**
